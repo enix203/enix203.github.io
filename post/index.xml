@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on Hugo Future Imperfect Slim</title>
+    <link>enix203.github.io/post/</link>
+    <description>Recent content in Post on Hugo Future Imperfect Slim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 15 May 2020 20:23:05 +0800</lastBuildDate>
+    
+	<atom:link href="enix203.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>胡搞搞的一小步</title>
+      <link>enix203.github.io/post/intro/</link>
+      <pubDate>Fri, 15 May 2020 20:23:05 +0800</pubDate>
+      
+      <guid>enix203.github.io/post/intro/</guid>
+      <description>上一个夜晚从脑子里冒出来的想法，被一个ddl缠身的家伙东搜搜西看看整出了雏形。我也不知道这个网站就是有什么具体的作用，想来想去大概又是一个拿来满足自己奇妙虚荣的玩具。不过hey！我搞出来了嘛起码！
+未来真有闲钱的话可能真的会去搞一个域名来，不过那都是后话了。现在用GitHub既当网站又做图床蛮舒服的，就是不挂梯子图片可能加载不出来&amp;hellip;以后在某个神秘公众号上面发的照片栏目大概也会在这里同步？文章的话待定吧，也许哪一天想聊一些很难过审的东西会发在这里。
+害，不去把高数赶紧写完跑来搞个网站出来，我这辣鸡问题还是改不了。胡搞搞的旅程估摸着还会进行很久，直到我真的眼里只有柴米油盐的时候才会停下来吧。
+没逻辑的废话先到这里，该上工画图了。</description>
+    </item>
+    
+  </channel>
+</rss>
